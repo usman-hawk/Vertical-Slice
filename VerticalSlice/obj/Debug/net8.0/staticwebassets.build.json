@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "mhzncHwuxvWz2wOc3U+VrfnYmc5pZVxErGXC71fGcV4=",
+  "Source": "VerticalSlice.API",
+  "BasePath": "_content/VerticalSlice.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
