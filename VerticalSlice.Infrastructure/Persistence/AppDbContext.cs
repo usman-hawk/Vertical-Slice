@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using Microsoft.EntityFrameworkCore;
-using VerticalSlice.Infrastructure.Persistence.TempModels;
+using VerticalSlice.Domain.Entities;
 
 namespace VerticalSlice.Infrastructure.Persistence;
 
@@ -16,7 +16,6 @@ public partial class AppDbContext : DbContext
     {
     }
 
-    public virtual DbSet<Role> Roles { get; set; }
 
     public virtual DbSet<User> Users { get; set; }
 
