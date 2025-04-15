@@ -1,0 +1,14 @@
+C:\Users\Usman Saleem\source\repos\VerticalSlice\VerticalSlice.Domain\bin\Debug\net8.0\VerticalSlice.Domain.deps.json
+C:\Users\Usman Saleem\source\repos\VerticalSlice\VerticalSlice.Domain\bin\Debug\net8.0\VerticalSlice.Domain.runtimeconfig.json
+C:\Users\Usman Saleem\source\repos\VerticalSlice\VerticalSlice.Domain\bin\Debug\net8.0\VerticalSlice.Domain.dll
+C:\Users\Usman Saleem\source\repos\VerticalSlice\VerticalSlice.Domain\bin\Debug\net8.0\VerticalSlice.Domain.pdb
+C:\Users\Usman Saleem\source\repos\VerticalSlice\VerticalSlice.Domain\obj\Debug\net8.0\VerticalSlice.Domain.csproj.AssemblyReference.cache
+C:\Users\Usman Saleem\source\repos\VerticalSlice\VerticalSlice.Domain\obj\Debug\net8.0\VerticalSlice.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usman Saleem\source\repos\VerticalSlice\VerticalSlice.Domain\obj\Debug\net8.0\VerticalSlice.Domain.AssemblyInfoInputs.cache
+C:\Users\Usman Saleem\source\repos\VerticalSlice\VerticalSlice.Domain\obj\Debug\net8.0\VerticalSlice.Domain.AssemblyInfo.cs
+C:\Users\Usman Saleem\source\repos\VerticalSlice\VerticalSlice.Domain\obj\Debug\net8.0\VerticalSlice.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Usman Saleem\source\repos\VerticalSlice\VerticalSlice.Domain\obj\Debug\net8.0\VerticalSlice.Domain.dll
+C:\Users\Usman Saleem\source\repos\VerticalSlice\VerticalSlice.Domain\obj\Debug\net8.0\refint\VerticalSlice.Domain.dll
+C:\Users\Usman Saleem\source\repos\VerticalSlice\VerticalSlice.Domain\obj\Debug\net8.0\VerticalSlice.Domain.pdb
+C:\Users\Usman Saleem\source\repos\VerticalSlice\VerticalSlice.Domain\obj\Debug\net8.0\VerticalSlice.Domain.genruntimeconfig.cache
+C:\Users\Usman Saleem\source\repos\VerticalSlice\VerticalSlice.Domain\obj\Debug\net8.0\ref\VerticalSlice.Domain.dll

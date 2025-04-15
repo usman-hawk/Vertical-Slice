@@ -1,0 +1,15 @@
+C:\Users\Usman Saleem\source\repos\VerticalSlice\VerticalSlice.Application\obj\Debug\net8.0\VerticalSlice.Application.csproj.AssemblyReference.cache
+C:\Users\Usman Saleem\source\repos\VerticalSlice\VerticalSlice.Application\obj\Debug\net8.0\VerticalSlice.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usman Saleem\source\repos\VerticalSlice\VerticalSlice.Application\obj\Debug\net8.0\VerticalSlice.Application.AssemblyInfoInputs.cache
+C:\Users\Usman Saleem\source\repos\VerticalSlice\VerticalSlice.Application\obj\Debug\net8.0\VerticalSlice.Application.AssemblyInfo.cs
+C:\Users\Usman Saleem\source\repos\VerticalSlice\VerticalSlice.Application\obj\Debug\net8.0\VerticalSlice.Application.csproj.CoreCompileInputs.cache
+C:\Users\Usman Saleem\source\repos\VerticalSlice\VerticalSlice.Application\bin\Debug\net8.0\VerticalSlice.Application.deps.json
+C:\Users\Usman Saleem\source\repos\VerticalSlice\VerticalSlice.Application\bin\Debug\net8.0\VerticalSlice.Application.dll
+C:\Users\Usman Saleem\source\repos\VerticalSlice\VerticalSlice.Application\bin\Debug\net8.0\VerticalSlice.Application.pdb
+C:\Users\Usman Saleem\source\repos\VerticalSlice\VerticalSlice.Application\bin\Debug\net8.0\VerticalSlice.Domain.dll
+C:\Users\Usman Saleem\source\repos\VerticalSlice\VerticalSlice.Application\bin\Debug\net8.0\VerticalSlice.Domain.pdb
+C:\Users\Usman Saleem\source\repos\VerticalSlice\VerticalSlice.Application\obj\Debug\net8.0\Vertical.440AD858.Up2Date
+C:\Users\Usman Saleem\source\repos\VerticalSlice\VerticalSlice.Application\obj\Debug\net8.0\VerticalSlice.Application.dll
+C:\Users\Usman Saleem\source\repos\VerticalSlice\VerticalSlice.Application\obj\Debug\net8.0\refint\VerticalSlice.Application.dll
+C:\Users\Usman Saleem\source\repos\VerticalSlice\VerticalSlice.Application\obj\Debug\net8.0\VerticalSlice.Application.pdb
+C:\Users\Usman Saleem\source\repos\VerticalSlice\VerticalSlice.Application\obj\Debug\net8.0\ref\VerticalSlice.Application.dll
